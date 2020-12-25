@@ -191,3 +191,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Changelog.md
+/README.md
+/TODO.md
